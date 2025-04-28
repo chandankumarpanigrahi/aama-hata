@@ -424,12 +424,12 @@ include 'header.php';
             <div class="col-xl-6 col-md-12">
                 <div class="ms-about-detail">
                     <div class="section-title">
-                        <h2>About <span>Masterkart.</span></h2>
-                        <p>We’re here to serve only the best products for you. Enriching your homes with the best essentials.</p>
+                        <h2>About <span>Aamahata.</span></h2>
+                        <p>Aamahata.com: Elevate your lifestyle with our curated selection of premium organic products, promoting health, sustainability, and ethical living.</p>
                     </div>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                    <p>Lorem Ipsum has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>
-                    <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                    <p>Aamahata.com is your go-to destination for a curated selection of high-quality organic products, promoting a healthier lifestyle and sustainable choices. Our online store offers a diverse range of organic foods, skincare, and lifestyle essentials, sourced directly from trusted producers.</p>
+                    <p>We prioritize transparency, ensuring customers have access to the origins and production methods of each product. With a commitment to environmental responsibility, Aamahata.com advocates for ethical and sustainable practices. </p>
+                    <p>Experience the joy of conscious living through our thoughtfully chosen collection, where every purchase contributes to a greener, healthier planet. Elevate your well-being with Aamahata.com, where nature meets convenience seamlessly.</p>
                 </div>
             </div>
         </div>
